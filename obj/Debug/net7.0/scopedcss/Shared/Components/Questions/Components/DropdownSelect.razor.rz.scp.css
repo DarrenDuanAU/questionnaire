@@ -1,0 +1,13 @@
+select[b-6oxn69wtom] {
+  padding: 10px 28px 10px 10px;
+  border-radius: 2px;
+  border: none;
+  font-size: 15px;
+  background-color: #F5F6F8;
+  
+  appearance: none;
+  background-image: url('SharedImage/dropdown_arrow.svg'); 
+  background-repeat:no-repeat ;
+  background-position: right 8px center;
+  background-size:15px ;
+}

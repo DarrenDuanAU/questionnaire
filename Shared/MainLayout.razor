@@ -1,0 +1,22 @@
+﻿@inherits LayoutComponentBase
+
+<PageTitle>Demo</PageTitle>
+
+<div class="page">
+    @* img for testing*@
+    @* <img src="F.svg" alt="cn"> *@
+
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+
+    <main>
+        <div class="topbar">
+            <TopBar /> 
+        </div>
+
+        <article class="major-container">
+            @Body
+        </article>
+    </main>
+</div>

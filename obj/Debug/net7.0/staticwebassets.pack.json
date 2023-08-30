@@ -1,0 +1,173 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/obj/Debug/net7.0/scopedcss/projectbundle/BlazorApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/BlazorApp.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/F.svg",
+      "PackagePath": "staticwebassets/F.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/NavMenuIcons/0_list.svg",
+      "PackagePath": "staticwebassets/NavMenuIcons/0_list.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/NavMenuIcons/10_live.svg",
+      "PackagePath": "staticwebassets/NavMenuIcons/10_live.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/NavMenuIcons/11_chatWindow.svg",
+      "PackagePath": "staticwebassets/NavMenuIcons/11_chatWindow.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/NavMenuIcons/12_setting.svg",
+      "PackagePath": "staticwebassets/NavMenuIcons/12_setting.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/NavMenuIcons/1_square.svg",
+      "PackagePath": "staticwebassets/NavMenuIcons/1_square.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/NavMenuIcons/2_ManRun.svg",
+      "PackagePath": "staticwebassets/NavMenuIcons/2_ManRun.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/NavMenuIcons/3_group.svg",
+      "PackagePath": "staticwebassets/NavMenuIcons/3_group.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/NavMenuIcons/4_person.svg",
+      "PackagePath": "staticwebassets/NavMenuIcons/4_person.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/NavMenuIcons/5_chat.svg",
+      "PackagePath": "staticwebassets/NavMenuIcons/5_chat.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/NavMenuIcons/6_video.svg",
+      "PackagePath": "staticwebassets/NavMenuIcons/6_video.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/NavMenuIcons/7_videoChat.svg",
+      "PackagePath": "staticwebassets/NavMenuIcons/7_videoChat.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/NavMenuIcons/8_ManTimer.svg",
+      "PackagePath": "staticwebassets/NavMenuIcons/8_ManTimer.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/NavMenuIcons/9_graph.svg",
+      "PackagePath": "staticwebassets/NavMenuIcons/9_graph.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/PageImages/ArrowLeft.svg",
+      "PackagePath": "staticwebassets/PageImages/ArrowLeft.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/PageImages/plus.svg",
+      "PackagePath": "staticwebassets/PageImages/plus.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/SharedImage/dropdown_arrow.svg",
+      "PackagePath": "staticwebassets/SharedImage/dropdown_arrow.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/TopBarImages/MagnifyingGlass.svg",
+      "PackagePath": "staticwebassets/TopBarImages/MagnifyingGlass.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/TopBarImages/SAM_logo_1.svg",
+      "PackagePath": "staticwebassets/TopBarImages/SAM_logo_1.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/TopBarImages/Yahoo.svg",
+      "PackagePath": "staticwebassets/TopBarImages/Yahoo.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/TopBarImages/avatar.svg",
+      "PackagePath": "staticwebassets/TopBarImages/avatar.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/TopBarImages/online_service.svg",
+      "PackagePath": "staticwebassets/TopBarImages/online_service.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/TopBarImages/question_mark.svg",
+      "PackagePath": "staticwebassets/TopBarImages/question_mark.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/darren/Desktop/GitHub_projects/questionnaire/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.BlazorApp.props",
+      "PackagePath": "build\\BlazorApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BlazorApp.props",
+      "PackagePath": "buildMultiTargeting\\BlazorApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BlazorApp.props",
+      "PackagePath": "buildTransitive\\BlazorApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

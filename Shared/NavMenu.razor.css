@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    padding-top: 4vh;
+}
+
+::deep .iconback {
+    width: 44px;
+    height: 44px;
+    margin-top: 1.9vh;
+    border-radius: 10px; 
+    background-color: #ffffff;
+} 
+
+::deep .iconback:hover {
+    cursor: pointer;
+    background-color:#d5d4f4;
+}
+
+
+::deep .iconback-active {
+    background-color:#d5d4f4;
+}
+  
+::deep .icon-active {
+    fill: #605bff;
+}
+
+
+

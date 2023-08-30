@@ -1,0 +1,113 @@
+@using BlazorApp.Shared.Components.Questions.Components;
+
+
+<div class="back" >
+  <img src="PageImages/ArrowLeft.svg" alt="back_button">
+  Back to Knowledge Base
+</div>
+
+
+<div class="page">
+  <div class="page-header">
+    <p>Create Questions</p>
+  </div>
+
+  <div class="page-title">
+    <h4>@newTitle</h4>
+  </div>
+
+  <form action="submit.php" method="post">
+    <div class="attributes-container">
+      @if (Attributes != null)
+      {
+        foreach(var attribute in Attributes)
+        {
+          var attributeName = attribute.Key;
+          var attributeOptions = attribute.Value;
+
+          <div class="attribute">
+              <LabeledDropdownSelect Label="@attributeName" Options="@attributeOptions" />
+          </div>
+        }
+      }
+    </div>
+
+    <div class="question">
+      <div class="question-label">
+          <label for="name">Question:</label>
+      </div>
+      <div class="question-input">
+        <input 
+          type="text" 
+          id="name" 
+          name="name" 
+          autocomplete="off" 
+          required
+          placeholder="     If you could change careers right this second what would you do?"
+        >
+      </div>
+    </div>
+    
+    
+    <div class="define-container">
+      <div class="define-title">
+        <label for="Position">Define:</label>
+      </div>
+
+      <div class="define-lower-container">
+        @if (DefineList != null){
+          foreach (List<string> define in DefineList){
+            <div class="define">
+            <DropdownSelect Options="@define" />
+            </div>
+          }
+        }
+      </div>
+      
+    </div>
+      
+    <div class="answer">
+      <AnswersInput/>
+    </div>
+
+    <div class="buttons">
+      <div>
+        <ButtonAddAnswer/>
+      </div>
+
+      <div class="buttons-right">
+        <InputButton />
+        <ButtonCancel />
+      </div>
+    </div>
+  </form>
+
+</div>
+
+@code {
+
+  [Parameter]
+  public string newTitle { get; set; } = "";
+  private List<List<string>>? DefineList { get; set; }
+  private Dictionary<string, List<string>>? Attributes { get; set; }
+
+  protected override void OnInitialized()
+  {
+      DefineList = new List<List<string>>
+      {
+          new List<string> { "Position", "Item 2", "Item 3" },
+          new List<string> { "Industry", "Item B", "Item C" },
+          new List<string> { "Deals Stage", "Item Y", "Item Z" }
+      };
+
+      Attributes = new Dictionary<string, List<string>>()
+      {
+        {"Question Type", new List<string> { "Buyers", "Item 2", "Item 3" }},
+        {"Question Template", new List<string> { "Buyers", "Item 2", "Item 3" }},
+        {"Question Category", new List<string> { "Buyers", "Item 2", "Item 3" }},
+      };
+
+  }
+
+}
+

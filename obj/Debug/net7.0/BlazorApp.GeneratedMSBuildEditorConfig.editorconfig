@@ -1,0 +1,141 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorApp
+build_property.RootNamespace = BlazorApp
+build_property.ProjectDir = /Users/darren/Desktop/GitHub_projects/questionnaire/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/darren/Desktop/GitHub_projects/questionnaire
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Pages/Fears.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmVhcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Pages/Impact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW1wYWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Pages/Tempt.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGVtcHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/NavMenu/Chat.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTmF2TWVudS9DaGF0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/NavMenu/ChatWindow.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTmF2TWVudS9DaGF0V2luZG93LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/NavMenu/Graph.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTmF2TWVudS9HcmFwaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/NavMenu/Group.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTmF2TWVudS9Hcm91cC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/NavMenu/List.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTmF2TWVudS9MaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/NavMenu/Live.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTmF2TWVudS9MaXZlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/NavMenu/Manrun.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTmF2TWVudS9NYW5ydW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/NavMenu/ManTimer.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTmF2TWVudS9NYW5UaW1lci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/NavMenu/Person.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTmF2TWVudS9QZXJzb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/NavMenu/Setting.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTmF2TWVudS9TZXR0aW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/NavMenu/Square.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTmF2TWVudS9TcXVhcmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/NavMenu/Videos.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTmF2TWVudS9WaWRlb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/NavMenu/Videoschat.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvTmF2TWVudS9WaWRlb3NjaGF0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/Questions/Components/AnswersInput.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvUXVlc3Rpb25zL0NvbXBvbmVudHMvQW5zd2Vyc0lucHV0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-y5vfxp30ii
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/Questions/Components/ButtonAddAnswer.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvUXVlc3Rpb25zL0NvbXBvbmVudHMvQnV0dG9uQWRkQW5zd2VyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-y9292vnqeq
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/Questions/Components/ButtonCancel.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvUXVlc3Rpb25zL0NvbXBvbmVudHMvQnV0dG9uQ2FuY2VsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-e4gqeut2w9
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/Questions/Components/DropdownSelect.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvUXVlc3Rpb25zL0NvbXBvbmVudHMvRHJvcGRvd25TZWxlY3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6oxn69wtom
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/Questions/Components/InputButton.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvUXVlc3Rpb25zL0NvbXBvbmVudHMvSW5wdXRCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-vewdirlf90
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/Questions/Components/LabeledDropdownSelect.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvUXVlc3Rpb25zL0NvbXBvbmVudHMvTGFiZWxlZERyb3Bkb3duU2VsZWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-miv43xlu4k
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/Components/Questions/QuestionTemplete.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvUXVlc3Rpb25zL1F1ZXN0aW9uVGVtcGxldGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-iwu5zfniip
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-3ij3p7wwc4
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wk4bcz64v1
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Shared/TopBar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1RvcEJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-n8l57outzf
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/darren/Desktop/GitHub_projects/questionnaire/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

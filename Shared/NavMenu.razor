@@ -1,0 +1,86 @@
+﻿@using BlazorApp.Shared.Components.NavMenu;
+
+<nav class="navbar">
+
+    <List />
+
+    <NavLink href="/impact" Match="NavLinkMatch.All" @onclick="() => ChangePage(0)">
+        <Square State="PageStates[0]"/>
+    </NavLink>
+
+    <NavLink href="/fears" Match="NavLinkMatch.All" @onclick="() => ChangePage(1)">
+        <Manrun State="PageStates[1]"/>
+    </NavLink>
+
+    <NavLink href="/tempt" Match="NavLinkMatch.All" @onclick="() => ChangePage(2)">
+        <Group State="PageStates[2]"/>
+    </NavLink>
+
+    <NavLink href="/" Match="NavLinkMatch.All" @onclick="() => ChangePage(3)">
+        <Person State="PageStates[3]"/>
+    </NavLink>
+
+    <NavLink href="/" Match="NavLinkMatch.All" @onclick="() => ChangePage(4)">
+        <Chat State="PageStates[4]"/>
+    </NavLink>
+
+    <NavLink href="/" Match="NavLinkMatch.All" @onclick="() => ChangePage(5)">
+        <Videos State="PageStates[5]"/>
+    </NavLink>
+
+    <NavLink href="/" Match="NavLinkMatch.All" @onclick="() => ChangePage(6)">
+        <Videoschat State="PageStates[6]" />
+    </NavLink>
+
+    <NavLink href="/" Match="NavLinkMatch.All" @onclick="() => ChangePage(7)">
+        <ManTimer State="PageStates[7]" />
+    </NavLink>
+
+    @* <NavLink href="/fears" Match="NavLinkMatch.All" @onclick="() => ChangePage(8)">
+        <Graph State="PageStates[8]" />
+    </NavLink> *@
+
+    <NavLink href="/" Match="NavLinkMatch.All" @onclick="() => ChangePage(9)">
+        <Live State="PageStates[9]" />
+    </NavLink>
+
+    <NavLink href="/" Match="NavLinkMatch.All" @onclick="() => ChangePage(10)">
+        <ChatWindow State="PageStates[10]" />
+    </NavLink>
+
+    <NavLink href="/" Match="NavLinkMatch.All" @onclick="() => ChangePage(11)">
+        <Setting State="PageStates[11]" />
+    </NavLink>
+
+</nav>
+
+
+@code {
+    private List<bool> PageStates = new List<bool>();
+    private int NumOfIcons = 12;
+    protected override void OnInitialized()
+    {
+        for ( int i = 0; i < NumOfIcons; i ++)
+        {
+            PageStates.Add(false);
+        }
+    }
+    
+    private void ChangePage(int IconIndex)
+    {   
+        for (int i = 0; i < NumOfIcons ; i++)
+        {
+            if (i == IconIndex)
+            {
+                PageStates[i] = true;
+            }
+            else
+            {
+                PageStates[i] = false;
+            }
+        }
+
+    }
+}
+
+

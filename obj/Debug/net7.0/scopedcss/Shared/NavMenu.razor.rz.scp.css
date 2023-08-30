@@ -1,0 +1,31 @@
+.navbar[b-wk4bcz64v1] {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    padding-top: 4vh;
+}
+
+[b-wk4bcz64v1] .iconback {
+    width: 44px;
+    height: 44px;
+    margin-top: 1.9vh;
+    border-radius: 10px; 
+    background-color: #ffffff;
+} 
+
+[b-wk4bcz64v1] .iconback:hover {
+    cursor: pointer;
+    background-color:#d5d4f4;
+}
+
+
+[b-wk4bcz64v1] .iconback-active {
+    background-color:#d5d4f4;
+}
+  
+[b-wk4bcz64v1] .icon-active {
+    fill: #605bff;
+}
+
+
+

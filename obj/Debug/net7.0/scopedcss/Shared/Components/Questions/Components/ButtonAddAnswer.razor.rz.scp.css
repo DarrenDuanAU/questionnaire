@@ -1,0 +1,20 @@
+button[b-y9292vnqeq] {
+  width: 129px;
+  height: 40px;
+  border-radius: 4px;
+  border: 1px solid #605BFF;
+  background-color: #fff;
+  
+  color:#605BFF;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-left:  10px;
+}
+
+.button > img[b-y9292vnqeq] {
+  margin: auto 10px auto 0px;
+  
+}

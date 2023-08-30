@@ -1,0 +1,60 @@
+.left-container[b-n8l57outzf] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+  .left-container > .logo[b-n8l57outzf] {
+    width: 100px;
+    height: 40px;
+    margin: auto 0px auto 20px;
+  }
+
+  .left-container > .search-bar[b-n8l57outzf] {
+    width: 230px;
+    height: 40px;
+    margin: auto 0 auto 20px;
+    padding-left: 10px;
+    border-radius: 2px;
+    border:1px rgba(3, 2, 41, 0.2) solid;
+
+    appearance: none;
+    background-image: url('TopBarImages/MagnifyingGlass.svg'); 
+    background-repeat:no-repeat ;
+    background-position: right 16px center;
+    background-size:15px ;
+  }
+
+  
+.right-container[b-n8l57outzf] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  .help-info-container[b-n8l57outzf] {
+    width: 80px;
+    margin-right: 20px;
+    padding-right: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-right: 1px #999 solid;
+  }
+
+  .help-info-container > img[b-n8l57outzf] {
+    height: 24px;
+    width: 24px;
+  }
+
+  .personal-info-container[b-n8l57outzf] {
+    width: 100px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+    .dropdown-arrow[b-n8l57outzf] {
+      width: 24px;
+      height: 24px;
+    }
+

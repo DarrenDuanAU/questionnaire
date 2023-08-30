@@ -1,0 +1,391 @@
+/* _content/BlazorApp/Shared/Components/Questions/Components/AnswersInput.razor.rz.scp.css */
+label[b-y5vfxp30ii] {
+  height: 26px;
+  font-size: 15px;
+}
+
+.inputs-container[b-y5vfxp30ii] {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+p[b-y5vfxp30ii] {
+  margin: auto 10px auto 5px;
+}
+
+input[b-y5vfxp30ii] {
+  width: 100%;
+  height: 40px;
+}
+/* _content/BlazorApp/Shared/Components/Questions/Components/ButtonAddAnswer.razor.rz.scp.css */
+button[b-y9292vnqeq] {
+  width: 129px;
+  height: 40px;
+  border-radius: 4px;
+  border: 1px solid #605BFF;
+  background-color: #fff;
+  
+  color:#605BFF;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-left:  10px;
+}
+
+.button > img[b-y9292vnqeq] {
+  margin: auto 10px auto 0px;
+  
+}
+/* _content/BlazorApp/Shared/Components/Questions/Components/ButtonCancel.razor.rz.scp.css */
+button[b-e4gqeut2w9] {
+  width: 112px;
+  height: 40px;
+  padding: 9px 18px 9px 18px;
+  border-radius: 4px;
+  border: 1px #EF4438 solid;
+  background-color: #fff;
+
+  color: #EF4438;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+/* _content/BlazorApp/Shared/Components/Questions/Components/DropdownSelect.razor.rz.scp.css */
+select[b-6oxn69wtom] {
+  padding: 10px 28px 10px 10px;
+  border-radius: 2px;
+  border: none;
+  font-size: 15px;
+  background-color: #F5F6F8;
+  
+  appearance: none;
+  background-image: url('SharedImage/dropdown_arrow.svg'); 
+  background-repeat:no-repeat ;
+  background-position: right 8px center;
+  background-size:15px ;
+}
+/* _content/BlazorApp/Shared/Components/Questions/Components/InputButton.razor.rz.scp.css */
+input[b-vewdirlf90] {
+  width: 112px;
+  height: 40px;
+  padding: 9px 18px 9px 18px;
+  border-radius: 4px;
+  background: #605BFF;
+
+  color:#fff;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+
+}
+/* _content/BlazorApp/Shared/Components/Questions/Components/LabeledDropdownSelect.razor.rz.scp.css */
+.label[b-miv43xlu4k] {
+  height: 30px;
+  font-size: 14px;
+}
+
+.select[b-miv43xlu4k] {
+  height: 40px;
+  width: 100%;
+}
+
+select[b-miv43xlu4k] {
+  height: 40px;
+  width: 100%;
+  border-radius: 2px;
+  border: 1px #D9D9D9 solid;
+  background-color: #fff;
+  padding: 9px 12px 9px 12px;
+  appearance: none;
+  background-image: url('SharedImage/dropdown_arrow.svg'); 
+  background-repeat:no-repeat ;
+  background-position: right 8px center;
+  background-size:15px ;
+}
+
+/* _content/BlazorApp/Shared/Components/Questions/QuestionTemplete.razor.rz.scp.css */
+.back[b-iwu5zfniip] {
+  height: 9vh;
+  display: flex;
+  align-items: center;
+  color: #605BFF;
+
+}
+
+.back img[b-iwu5zfniip] {
+  margin-left: 20px;
+  margin-right: 12px;
+}
+
+label[b-iwu5zfniip] {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #1E193E;
+}
+
+.page[b-iwu5zfniip] {
+  margin: 0 60px 0 52px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+}
+
+  .page-header[b-iwu5zfniip] {
+    width: 100%;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+
+  .page-title[b-iwu5zfniip] {
+    padding-left: 10px;
+  }
+
+  .page-title > h4[b-iwu5zfniip] {
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 39px;
+    text-align: center;
+    align-items: center;
+    color:rgba(30, 25, 62, 1);
+  }
+
+  .attributes-container[b-iwu5zfniip]{
+    margin-top: 4vh;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+  }
+
+    .attribute[b-iwu5zfniip] {
+      display: block;
+      width: 360px;
+      flex-direction: column;
+    }
+    
+  .question[b-iwu5zfniip] {
+    height: 6vh;
+    width: 100%;
+    margin-top: 26px;
+    display: block;
+  }
+
+    .question-label[b-iwu5zfniip] {
+      height: 26px;
+    }
+
+    /* .question-input {
+      height: 40px;
+      width: 100%;
+    } */
+
+      .question-input > input[b-iwu5zfniip] {
+        height: 40px;
+        width: 100%;
+      }
+  
+  .define-container[b-iwu5zfniip] {
+    margin-top:3vh;
+    display: flex;
+    flex-direction: column;
+    height: 66px;
+    width: 100%;
+  } 
+  
+    .define-title[b-iwu5zfniip] {
+      height: 26px;
+    }
+
+    .define-lower-container[b-iwu5zfniip] {
+      height: 40px;
+      display: flex;
+    }
+
+      .define[b-iwu5zfniip] {
+        height: 40px;
+        margin-right:20px;
+      }
+      
+  .answer[b-iwu5zfniip] {
+    margin-top: 2.5vh;
+    height: 66px;
+    width: 100%;
+    display: block;
+  }
+
+
+  .buttons[b-iwu5zfniip] {
+    margin-top:8vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .buttons-right[b-iwu5zfniip] {
+    width: 234px;
+    display: flex;
+    justify-content: space-between;
+  }
+/* _content/BlazorApp/Shared/MainLayout.razor.rz.scp.css */
+
+.page[b-3ij3p7wwc4] {
+    background-color: #f4f5f6;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+
+/* img for testing */
+.page > img[b-3ij3p7wwc4] {
+    position: absolute;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+
+.sidebar[b-3ij3p7wwc4] {
+    width: 70px;
+    height: 100vh;
+    background-color: #fff;
+}
+
+main[b-3ij3p7wwc4] {
+    width: calc(100vw - 80px);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+    .topbar[b-3ij3p7wwc4] {
+        box-sizing: border-box;
+        width: 100%;
+        min-height: 100px;
+        border-top:18px #f4f5f6 solid;
+        border-left:26px #f4f5f6  solid;
+        border-right:10px #f4f5f6  solid;
+        display: flex;
+        justify-content: space-between;
+        background-color: #fff;
+    }
+
+    .major-container[b-3ij3p7wwc4] {
+        box-sizing: border-box;
+        width: 100%;
+        height: calc(100vh - 90px);
+        min-height: 800px;
+        border-top:11px #f4f5f6 solid;
+        border-left:26px #f4f5f6 solid;
+        border-right:10px #f4f5f6 solid;
+        border-bottom:9px #f4f5f6 solid;
+        background-color: #fff;
+    }
+/* _content/BlazorApp/Shared/NavMenu.razor.rz.scp.css */
+.navbar[b-wk4bcz64v1] {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    padding-top: 4vh;
+}
+
+[b-wk4bcz64v1] .iconback {
+    width: 44px;
+    height: 44px;
+    margin-top: 1.9vh;
+    border-radius: 10px; 
+    background-color: #ffffff;
+} 
+
+[b-wk4bcz64v1] .iconback:hover {
+    cursor: pointer;
+    background-color:#d5d4f4;
+}
+
+
+[b-wk4bcz64v1] .iconback-active {
+    background-color:#d5d4f4;
+}
+  
+[b-wk4bcz64v1] .icon-active {
+    fill: #605bff;
+}
+
+
+
+/* _content/BlazorApp/Shared/TopBar.razor.rz.scp.css */
+.left-container[b-n8l57outzf] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+  .left-container > .logo[b-n8l57outzf] {
+    width: 100px;
+    height: 40px;
+    margin: auto 0px auto 20px;
+  }
+
+  .left-container > .search-bar[b-n8l57outzf] {
+    width: 230px;
+    height: 40px;
+    margin: auto 0 auto 20px;
+    padding-left: 10px;
+    border-radius: 2px;
+    border:1px rgba(3, 2, 41, 0.2) solid;
+
+    appearance: none;
+    background-image: url('TopBarImages/MagnifyingGlass.svg'); 
+    background-repeat:no-repeat ;
+    background-position: right 16px center;
+    background-size:15px ;
+  }
+
+  
+.right-container[b-n8l57outzf] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  .help-info-container[b-n8l57outzf] {
+    width: 80px;
+    margin-right: 20px;
+    padding-right: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-right: 1px #999 solid;
+  }
+
+  .help-info-container > img[b-n8l57outzf] {
+    height: 24px;
+    width: 24px;
+  }
+
+  .personal-info-container[b-n8l57outzf] {
+    width: 100px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+    .dropdown-arrow[b-n8l57outzf] {
+      width: 24px;
+      height: 24px;
+    }
+
