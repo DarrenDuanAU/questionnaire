@@ -1,6 +1,10 @@
 # Start the project
 - dotnet watch
 
+# Demo
+
+![alt text](https://github.com/DarrenDuanAU/questionnaire/blob/main/images/demo.png)
+
 # Check the layout
 - Uncomment the img in MainLayout.razor(in Shared folder)
 - Adjust the resolution to 1440*1024px with Chrome web development tools
